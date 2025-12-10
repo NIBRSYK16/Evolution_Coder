@@ -1,6 +1,6 @@
-# Evolution-Coder 完整系统 (模块化版本)
+# Evolution-Coder 完整系统
 
-> 完整的Qwen2.5-Coder模型微调与评估系统 - **已重构为模块化架构**
+> 完整的Qwen2.5-Coder模型微调与评估系统
 
 ## 📋 快速导航
 
@@ -21,8 +21,6 @@
 - ✅ **Web界面** - 使用Gradio提供友好的Web UI
 
 ## 📂 项目结构
-
-### 原始结构（code_4.py）
 
 ```
 Evolution_Coder/
