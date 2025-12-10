@@ -1,0 +1,16 @@
+# python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# vscode设置
+.vscode/
+
+# 模型文件
+models/
+
+# 微调后模型
+*finetuned/
+
+# 评估结果
+evaluation_results_*.json
