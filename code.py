@@ -2415,4 +2415,4 @@ if __name__ == "__main__":
             show_api=False
         )
     except KeyboardInterrupt:
-        print("\n👋 服务已停止")
+        print("\n 服务已停止")
